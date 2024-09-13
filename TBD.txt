@@ -1,0 +1,64 @@
+zistit kolko vieme vytocit a kym to nie je nevyhnutne, netocit
+doplnit cuvanie
+
+cokolvek chyba z urcitej kritickej oblasti je prekazka
+
+osm buchledice 
+
+skusit zlepsit obrazky v m:\robotour4\software\logs\_\
+zvyraznit zelenu?
+
+pri planovani cesty nesmie sa otacat do  protismeru (orientovny graf po najblizsiu krizovatku)
+musi vediet ktorym smerom je otoceny
+
+ked ostatne stat a vidi len kus bieleho musi cuvnut a ist na tu stranu
+
+musi sa dat zadat rucna korekcia polohy?
+
+ako keby chcel navigovat na opacnu stranu, preverit smerovanie
+
+vybava do dazda
+
+icp velmi skodi ked sme mimo mapy
+malo by mat urcity limit
+mozno uplne vypnut
+
+ked zastane a nema kam ist tak treba aby cuval 2.5s
+
+viac sa spoliehat na gpsku
+
+zobrazit skutocnu polohu gpsky
+
+vozik!!!
+
+moznost zrusit ciel kliknutim na bodd gps
+
+toci akokeby opacne
+
+rychlejsia detekcia prekazok!
+
+lepsia detekcia travnika
+
+v zakrute menej navigovat a viac sa vyhybat
+
+https://github.com/NVlabs/SegFormer
+
+pozriet GPS data - mame azimut? je taky aky cakame?
+
+zisti ci sa vobec meria azitmut - podla gps.txt
+
+podla zaznamu z gps odsimulovat pocitanie speed vector
+
+navigacia len podla mapy? nevieme ako sme otoceni...
+potrebujeme azimut
+
+podvozok na dopravu auta v pripade zastavenia pokusu
+
+vyskusat cuvanie ked sa neda ist STOP
+
+ukladat do space distance od podciela a iba v jeho blizkosti brat
+do uvahy heading k najblizsiemu podcielu, ak sa k nemu priblizujeme
+
+segformer momentalne hlada maximum logaritmu pravdepodobnosti
+bolo by mozno lepsie sledovat pravdepodobnosti pre dotknute triedy voci zvolenemu prahu
+

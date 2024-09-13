@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.8 (717435 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="33267920" visible="true" version="30" changeset="141273255" timestamp="2023-09-14T19:26:09Z" user="Tulkun" uid="18107650">
+  <nd ref="724088812"/>
+  <nd ref="724091301"/>
+  <nd ref="724082409"/>
+  <nd ref="724084200"/>
+  <nd ref="724080448"/>
+  <nd ref="724097050"/>
+  <nd ref="377776565"/>
+  <nd ref="506815740"/>
+  <nd ref="506815742"/>
+  <nd ref="377776450"/>
+  <nd ref="724246823"/>
+  <nd ref="11042553963"/>
+  <nd ref="377776461"/>
+  <nd ref="11042553962"/>
+  <nd ref="11042553961"/>
+  <nd ref="506815743"/>
+  <nd ref="724255540"/>
+  <nd ref="724244141"/>
+  <nd ref="724252180"/>
+  <nd ref="377776469"/>
+  <nd ref="724257513"/>
+  <nd ref="10005158690"/>
+  <nd ref="724251089"/>
+  <nd ref="724253295"/>
+  <nd ref="10005158691"/>
+  <nd ref="10005158692"/>
+  <nd ref="11072004879"/>
+  <nd ref="11072004881"/>
+  <nd ref="11078929112"/>
+  <nd ref="11072004880"/>
+  <nd ref="11071770840"/>
+  <nd ref="11071770842"/>
+  <nd ref="724245468"/>
+  <nd ref="377776482"/>
+  <nd ref="11071770844"/>
+  <nd ref="724256543"/>
+  <nd ref="724248068"/>
+  <nd ref="11078900719"/>
+  <nd ref="11078900722"/>
+  <nd ref="11078900730"/>
+  <nd ref="11191379627"/>
+  <nd ref="11078571621"/>
+  <nd ref="377776491"/>
+  <nd ref="724244608"/>
+  <nd ref="724244861"/>
+  <nd ref="724256912"/>
+  <nd ref="724250473"/>
+  <nd ref="724242606"/>
+  <nd ref="11078571622"/>
+  <nd ref="724256942"/>
+  <nd ref="724252129"/>
+  <nd ref="724256548"/>
+  <nd ref="724256513"/>
+  <nd ref="11078571623"/>
+  <nd ref="724254077"/>
+  <nd ref="724253007"/>
+  <nd ref="377776500"/>
+  <nd ref="11049745354"/>
+  <nd ref="724257096"/>
+  <nd ref="724252828"/>
+  <nd ref="11034321491"/>
+  <nd ref="11034321492"/>
+  <nd ref="11034321493"/>
+  <nd ref="4875368142"/>
+  <nd ref="377776505"/>
+  <nd ref="377776513"/>
+  <nd ref="377776523"/>
+  <nd ref="436957059"/>
+  <nd ref="506815529"/>
+  <nd ref="11042236799"/>
+  <nd ref="11042567164"/>
+  <nd ref="11042567162"/>
+  <nd ref="11070957881"/>
+  <nd ref="506815746"/>
+  <nd ref="11070957891"/>
+  <nd ref="11042236798"/>
+  <nd ref="11023727162"/>
+  <nd ref="11191487840"/>
+  <nd ref="11023727163"/>
+  <nd ref="11191487841"/>
+  <nd ref="11191487842"/>
+  <nd ref="377776530"/>
+  <nd ref="11191487837"/>
+  <nd ref="3072301147"/>
+  <nd ref="4735079742"/>
+  <nd ref="11023727167"/>
+  <nd ref="11023727166"/>
+  <nd ref="9809506949"/>
+  <nd ref="506815554"/>
+  <nd ref="506815555"/>
+  <nd ref="506815556"/>
+  <nd ref="11023727165"/>
+  <nd ref="11023727164"/>
+  <nd ref="4735079740"/>
+  <nd ref="377776539"/>
+  <nd ref="377776547"/>
+  <nd ref="506815748"/>
+  <nd ref="4735105292"/>
+  <nd ref="3074289380"/>
+  <nd ref="8450579079"/>
+  <nd ref="506815749"/>
+  <nd ref="11042554230"/>
+  <nd ref="724098278"/>
+  <nd ref="724086152"/>
+  <nd ref="724088812"/>
+  <tag k="alt_name" v="Sad Andreja Kmeťa"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Mestský park"/>
+  <tag k="old_name" v="Gottwaldove sady"/>
+  <tag k="wikidata" v="Q12775735"/>
+  <tag k="wikipedia" v="sk:Sad Andreja Kmeťa"/>
+ </way>
+</osm>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<osm attribution="http://www.openstreetmap.org/copyright" copyright="OpenStreetMap and contributors" generator="CGImap 0.8.8 (717435 spike-06.openstreetmap.org)" license="http://opendatacommons.org/licenses/odbl/1-0/" version="0.6">
+ <way changeset="111111111" id="11111111" timestamp="2024-09-13T12:48:00Z" uid="11111111" user="Tulkun" version="30" visible="true">
+  <nd ref="3122026938"/>
+  <nd ref="6464914344"/>
+  <nd ref="6464913541"/>
+  <nd ref="6464914345"/>
+  <nd ref="6464914346"/>
+  <nd ref="6464914348"/>
+  <nd ref="6464913558"/>
+  <nd ref="6464913559"/>
+  <nd ref="951645231"/>
+  <nd ref="1109742251"/>
+  <nd ref="1109742088"/>
+  <nd ref="1109742176"/>
+  <nd ref="1109741820"/>
+  <nd ref="5001934160"/>
+  <nd ref="6462561404"/>
+  <nd ref="838433742"/>
+  <nd ref="9920657608"/>
+  <nd ref="2356359075"/>
+  <nd ref="9707723831"/>
+  <nd ref="9704764417"/>
+  <nd ref="1055990483"/>
+  <nd ref="3618170340"/>
+  <nd ref="3618170341"/>
+  <nd ref="6466254883"/>
+  <nd ref="6464953040"/>
+  <nd ref="2356359078"/>
+  <nd ref="3618170342"/>
+  <nd ref="2356359083"/>
+  <nd ref="6464953019"/>
+  <nd ref="2308317717"/>
+  <nd ref="4101775473"/>
+  <nd ref="2356359084"/>
+  <nd ref="6466255886"/>
+  <nd ref="4101775689"/>
+  <nd ref="1724344697"/>
+  <nd ref="1724344784"/>
+  <nd ref="3618170378"/>
+  <nd ref="838433784"/>
+  <nd ref="6464914317"/>
+  <nd ref="6464914316"/>
+  <nd ref="3118301777"/>
+  <nd ref="2356359086"/>
+  <nd ref="3118301781"/>
+  <nd ref="3118301811"/>
+  <nd ref="3118301821"/>
+  <nd ref="838433662"/>
+  <nd ref="2356359090"/>
+  <nd ref="1168532191"/>
+  <nd ref="1168530467"/>
+  <nd ref="2356359087"/>
+  <nd ref="3618172566"/>
+  <nd ref="1724345569"/>
+  <nd ref="3618172560"/>
+  <nd ref="2356359089"/>
+  <nd ref="3118301815"/>
+  <nd ref="3118301828"/>
+  <nd ref="6464914342"/>
+  <nd ref="838433744"/>
+  <nd ref="3122026937"/>
+  <nd ref="5996072564"/>
+  <nd ref="5996072568"/>
+  <nd ref="2356359088"/>
+  <nd ref="3618172556"/>
+  <nd ref="3618172572"/>
+  <nd ref="3618172572"/>
+  <nd ref="5001865907"/>
+  <nd ref="3618172622"/>
+  <nd ref="3618172623"/>
+  <nd ref="5996074409"/>
+  <nd ref="3618172624"/>
+  <nd ref="953579595"/>
+  <tag k="alt_name" v="Zamocky park"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Zamocky park"/>
+  <tag k="wikidata" v="Q11111111"/>
+  <tag k="wikipedia" v="cz:Zamocky park Buchlovice"/>
+ </way>
+</osm>

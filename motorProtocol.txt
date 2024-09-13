@@ -1,0 +1,6 @@
+m<id> <value> <speed>\r
+
+m0 -35..35 0..255\r  # turn  left..right speed
+m1 -1..0..-1 0..255\r # forward
+m2\r # reset the steering counter
+m3\r # return the steering counter
